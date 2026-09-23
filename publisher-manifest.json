@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d0c9409304c5f295c71a0372",
+  "owner": "qeuasaj",
+  "repo": "page-174846ad323c69543964c8ef",
+  "title": "流光云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "174846ad323c69543964c8ef",
+      "a": "流光云",
+      "b": "稳定全球clash加速器",
+      "entity": "流光云",
+      "brand": "流光云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5b90069f5a5ca086d97fb11bea1233d12879c9dc130e670f9e3b492899e691b1",
+      "content": {
+        "primary_entity": "流光云",
+        "keyword1": "流光云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择 Clash 客户端，桌面端、移动端与路由器分别有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对流光云套餐",
+          "AI_DESCRIPTION": "，流光云提供基础版、旗舰版与团队版三档配置。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 专属高带宽节点与专属客户经理服务。按年付可节省两个月费用，适合长期稳定使用的用户。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度了解流光云的使用方式。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按同时在线数量匹配套餐。",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "线路按需升级",
+          "AI_GUIDE_INTRO": "按三步完成从选择到使用的流程，适合首次接触流光云的用户。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "流光云为需要稳定全球网络连接的用户提供 Clash 订阅服务，覆盖桌面、移动与路由器等多种设备。三档套餐在流量、设备数量与线路品质上各有侧重，用户可按自身使用强度与终端数量灵活选择。",
+          "AI_HERO_SUBTITLE": "流光云 Clash 订阅服务",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案节省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速专线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与游戏加速，团队版满足多设备与企业定制需求，年付均可节省两个月费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与每月流量消耗，在基础版、旗舰版与团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与 Clash 客户端的适配要求，桌面端、移动端与路由器分别对应不同版本。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按照所选 Clash 客户端的文档导入配置，即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "流光云全球加速",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可根据常用终端数量选择，若多台设备轮换使用建议选旗舰版及以上。",
+          "AI_FAQ_ANSWER_2": "流光云提供月付与年付两种方式，年付享优惠折扣。基础版年付150元，旗舰版年付350元，团队版年付850元，按需选择合适的周期即可。",
+          "AI_FAQ_ANSWER_3": "旗舰版配置IPLC专线并对游戏场景优化，延迟表现更稳定。团队版提供VIP专属高带宽节点，适合对带宽要求较高的团队协作场景。",
+          "AI_FAQ_ANSWER_4": "基础版可解锁基础流媒体，旗舰版及团队版支持全节点原生流媒体解锁。不同套餐线路池有差异，按实际使用需求选择对应版本即可。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由并配备专属客户经理服务，适合团队或企业集中管理。可联系客服沟通定制需求后再订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "流光云套餐各支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "流光云怎么付费？有年付优惠吗？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "流光云能解锁流媒体吗？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ssrcloud-le7n539j.com",
+    "host": "xn--ssrcloud-le7n539j.com"
+  },
+  "file_hashes": {
+    "index.html": "03a570de11aed31b6c6e208e5deeae09381ea26d2a4f7a3a65bf15d32ad55d2f",
+    "sitemap.xml": "a4b7119aba7370a8b849c79beaa5483bcb55b06852a35f5e2f0fcb51c0f31456",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5e25b7abe6006016781ce414f1fc19a592e3a21dc4cf9b8d5b416a572f1edf84",
+    "robots.txt": "5c03a866b670317d76054002101302c35a4e53811dbbbe89788c783a730faae2",
+    "25646aed70b908eafb222a4caccf489f.txt": "6c5cc08c6e47b95dbcafa819cea02486b6b71b2953df04b37f8a2d59d2843ca3"
+  },
+  "revision": "4ba09dc76da32193bd00c44ab95854b80351bb025bd0a361a51038675ca17b4e"
+}
